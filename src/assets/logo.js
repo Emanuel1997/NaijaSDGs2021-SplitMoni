@@ -7,12 +7,12 @@ const Logo = () => {
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
-      <rect y="2" width="13.6757" height="16.6139" fill="#303334" />
+      <rect y="2" width="10.6757" height="13.6139" fill="#303334" />
       <rect
         x="24.3243"
         y="23.3861"
-        width="13.6757"
-        height="16.6139"
+        width="10.6757"
+        height="13.6139"
         fill="#303334"
       />
       <rect x="17.2973" y="2" width="4.86486" height="40" fill="#303334" />
