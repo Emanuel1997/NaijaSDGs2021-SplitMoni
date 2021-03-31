@@ -1,12 +1,13 @@
 import { Navbar } from "./styled";
 import { Link } from "react-router-dom";
+import Logo from "../assets/logo";
 
 const NavBar = () => {
   return (
     <Navbar>
       <nav className="main">
         <div>
-          <img src="/images/splitMoni-logo.svg" alt="splitmoni" />
+          <Logo />
         </div>
         <ul>
           <li>
